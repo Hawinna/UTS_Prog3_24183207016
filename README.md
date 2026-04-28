@@ -1,7 +1,7 @@
 # UTS_Prog3_24183207016
 **Nama:** Hawinna Amry Lafaidza  
  **NPM:** 24183207016  
- **Prodi:** PTI/3A
+ **Prodi:** PTI/4A
   
 ---
 
@@ -26,3 +26,11 @@ Aplikasi kasir sederhana berbasis desktop yang dibangun menggunakan Java Swing (
 - Ulangi langkah 2-4 untuk menambah pesanan lain.
 - Klik tombol Proses untuk melihat struk belanja akhir.
 - Gunakan tombol Hapus jika ingin membatalkan semua pesanan dan memulai dari awal.
+
+---
+
+### Berikut Hasil Outputnya
+<img width="606" height="590" alt="Screenshot (106)" src="https://github.com/user-attachments/assets/f09dd293-557c-4508-8fb8-f9136fb2f66b" />
+<img width="599" height="590" alt="Screenshot (107)" src="https://github.com/user-attachments/assets/3ae53363-f73c-42cd-a4ac-0cbb1a091bb4" />
+
+
